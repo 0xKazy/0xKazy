@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xKazy
-- 👀 I’m interested in ...
+- 👀 I’m interested in ?
 - 🌱 I’m currently learning HTML+CSS
 - 💞️ I’m looking to collaborate in futur project Web 3.0
 - 📫 How to reach me e-mail
