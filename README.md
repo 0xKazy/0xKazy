@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0xKazy
 - 👀 I’m interested in ?
-- 🌱 I’m currently learning HTML+CSS
+- 🌱 I’m currently vibecoding
 - 💞️ I’m looking to collaborate in futur project Web 3.0
-- 📫 How to reach me e-mail
+- 
 
 <!---
 0xKazy/0xKazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
